@@ -6,7 +6,7 @@ public class TestClass {
 		/**
 		 * NICE! That worked. Now, let's do the opposite for funsies!
 		 * This JavaDoc comment is being added locally through my IDE. 
-		 * Let's test adding, committing, and pushing to the remote repo! 
+		 * Let's test adding, committing, and pushing to the remote repo!! 
 		 */
 		System.out.println("I'm simply a test! If you see me - I work!");
 	}
